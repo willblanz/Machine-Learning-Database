@@ -16,8 +16,9 @@
 * SQL exercises on IMDB dataset [SQL IMDB](https://github.com/williamblanzeisky/SQL_IMBD_Dataset)
 
 ### Machine Learning
-* Applying PCA and T-SNE [PCA & T-SNE) (https://github.com/williamblanzeisky/PCA_T-SNE)
+* Applying PCA and T-SNE [PCA & T-SNE] (https://github.com/williamblanzeisky/PCA_T-SNE)
 * K-Nearest Neighbor [KNN](https://github.com/williamblanzeisky/k-NN)
+* Naive Bayes [MultinominalNB](https://github.com/williamblanzeisky/Naive-Bayes)
 * Hyperparameter tuning [Grid Search](https://github.com/williamblanzeisky/Hyperparameter_Tuning)
 * Implementing performance measure from scratch without sklearn [Performance Metrics](https://github.com/williamblanzeisky/Performance-Measure-without-sklearn-)
 * Implementing SGD Classifier from scratch [SGD Classifier](https://github.com/williamblanzeisky/SGD-Classifier-from-Scratch)
@@ -40,3 +41,4 @@
 ### Miscellaneous
 * Using Google API to convert speech to text [GCP](https://github.com/williamblanzeisky/Speech_To_Text_Using_GCP-)
 * Recreating tinyurl using Regex [MyTinyURL](https://github.com/williamblanzeisky/myTinyURL)
+* Deploying model using flask to AWS [Model Deployment](https://github.com/williamblanzeisky/Model_Deployment)
