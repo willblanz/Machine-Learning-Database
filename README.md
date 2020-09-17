@@ -1,5 +1,4 @@
-<h1 align="center">William Blanzeisky's ML Archive</h1>
-<h2 align="center">
+<h1 align="center">William Blanzeisky's ML Database</h1>
 
 ## Table of Contents
 
