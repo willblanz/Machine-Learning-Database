@@ -6,6 +6,9 @@
 *  Using PyPDF4 to extract data from a pdf (invoice) [PyPDF4](https://github.com/williamblanzeisky/PyPDF4_Invoice) 
 *  Basic python exercise) [Python Fundamentals](https://github.com/williamblanzeisky/PythonExercise-) 
 
+### Probability & Statistics
+* Basics of probability and statistics for machine learning [Prob & Stat](https://github.com/williamblanzeisky/Probability_Statistics)
+
 ### Exploratory Data Analysis
 *  Exploratory Data Analysis on Haberman Dataset [EDA](https://github.com/williamblanzeisky/Exploratory-Data-Analysis---Haberman-) 
 
@@ -13,6 +16,7 @@
 * SQL exercises on IMDB dataset [SQL IMDB](https://github.com/williamblanzeisky/SQL_IMBD_Dataset)
 
 ### Machine Learning
+* Applying PCA and T-SNE [PCA & T-SNE) (https://github.com/williamblanzeisky/PCA_T-SNE)
 * K-Nearest Neighbor [KNN](https://github.com/williamblanzeisky/k-NN)
 * Hyperparameter tuning [Grid Search](https://github.com/williamblanzeisky/Hyperparameter_Tuning)
 * Implementing performance measure from scratch without sklearn [Performance Metrics](https://github.com/williamblanzeisky/Performance-Measure-without-sklearn-)
