@@ -4,7 +4,7 @@
 
 ### Python Basics
 *  Using PyPDF4 to extract data from a pdf (invoice) [PyPDF4](https://github.com/williamblanzeisky/PyPDF4_Invoice) 
-*  Basic python exercise) [Python Fundamentals](https://github.com/williamblanzeisky/PythonExercise-) 
+*  Basic python exercises [Python Fundamentals](https://github.com/williamblanzeisky/PythonExercise-) 
 
 ### Probability & Statistics
 * Basics of probability and statistics for machine learning [Prob & Stat](https://github.com/williamblanzeisky/Probability_Statistics)
