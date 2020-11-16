@@ -26,6 +26,7 @@
 * Observing how linear model works on different conditions [Behaviour of Linear Models](https://github.com/williamblanzeisky/Behaviour-of-Linear-Models)
 * Applying random forest to Donor's choose dataset [Random Forest](https://github.com/williamblanzeisky/Random_Forest)
 * Applying LightGBM to Donor's choose dataset [LGBM](https://github.com/williamblanzeisky/LightGBM-Donors)
+* Clustering on graph data and applying T-SNE for cluster representation in 2D [Clustering](https://github.com/williamblanzeisky/clustering)
 
 
 ### Natural Language Processing
