@@ -28,6 +28,9 @@
 * Applying LightGBM to Donor's choose dataset [LGBM](https://github.com/williamblanzeisky/LightGBM-Donors)
 * Clustering on graph data and applying T-SNE for cluster representation in 2D [Clustering](https://github.com/williamblanzeisky/clustering)
 
+### Recommender System
+* Implementing Yehuda Kohen's approach to predict user rating on movie using matrix factorization technique (Truncated SVD) [RecSys](https://github.com/williamblanzeisky/RecommenderSystem)
+
 
 ### Natural Language Processing
 * Basics of Natural Language Processing (Intro to word2vec, tfidf, bag-of-words, n-gram, tf-idf-w2v) [Basic NLP](https://github.com/williamblanzeisky/NLP_Basics)
